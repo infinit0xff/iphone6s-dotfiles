@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Add files as needed...
+!.gitignore
+!.profile
